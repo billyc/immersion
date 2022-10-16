@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://billyc.github.io//immersion/feed.xml" rel="self" type="application/atom+xml" /><link href="https://billyc.github.io//immersion/" rel="alternate" type="text/html" /><updated>2022-10-16T19:59:46+02:00</updated><id>https://billyc.github.io//immersion/feed.xml</id><title type="html">🇩🇪 Billy’s Immersion Blog 🇩🇪</title><subtitle>Occasional updates about learning German through media immersion.</subtitle><author><name>Billy Charlton</name></author><entry><title type="html">Guide to using “zu” with verbs</title><link href="https://billyc.github.io//immersion/2022/zu-verbs" rel="alternate" type="text/html" title="Guide to using “zu” with verbs" /><published>2022-10-13T00:00:00+02:00</published><updated>2022-10-13T00:00:00+02:00</updated><id>https://billyc.github.io//immersion/2022/zu-verbs</id><content type="html" xml:base="https://billyc.github.io//immersion/2022/zu-verbs"><![CDATA[<h3 id="zu--infinitives">zu + infinitives</h3>
+
+<p>German verbs in the “infinitive” – <code class="language-plaintext highlighter-rouge">machen</code>, <code class="language-plaintext highlighter-rouge">arbeiten</code>, <code class="language-plaintext highlighter-rouge">haben</code>, <code class="language-plaintext highlighter-rouge">sein</code> – are translated as “to make,” “to work,” “to have,” and “to be.” So then why do you sometimes use <code class="language-plaintext highlighter-rouge">zu</code> along with them? Isn’t that <code class="language-plaintext highlighter-rouge">to to work</code>?</p>
+
+<p>My big grammar book has pages and pages of arcane rules about infinitive verbs. I can’t possibly capture every nuance of the German infinitive verb in one post! Let’s just aim for the basics; the rest you will just have to absorb through immersion. 😈</p>
+
+<h2 id="the-most-common-helper-verbs--infinitive-no-zu-needed">The most common helper verbs + infinitive: no “zu” needed</h2>
+
+<p>Just like English, German has a set of helper verbs (“modal verbs”) that pair with another verb.</p>
+
+<p><span style="color: mediumslateblue; font-weight: bold">können - müssen - sollen - wollen - dürfen - mögen/möchten</span></p>
+
+<p>If one of these modal helper verbs is the conjugated verb, then the infinitive verb at the end <strong>does not</strong> need <code class="language-plaintext highlighter-rouge">zu</code>:</p>
+
+<ul>
+  <li>Ich will einkaufen, du sollst schlafen.</li>
+  <li>Du darfst hier nicht parken!</li>
+  <li>Ich möchte einen Kaffee bestellen</li>
+  <li>Sie musste mit ihrer Chefin sprechen</li>
+  <li>Jeder kann es versuchen</li>
+</ul>
+
+<p>Verbs of <strong>perception</strong> and <strong>motion</strong> can also fit here; they usually don’t take <code class="language-plaintext highlighter-rouge">zu</code>. These will just start to sound right with enough immersion:</p>
+
+<ul>
+  <li>Sie hörte das Kind weinen</li>
+  <li>Ich sah ihn ins Zimmer kommen</li>
+  <li>Kommst du denn heute schwimmen?</li>
+</ul>
+
+<h2 id="use-zu--infinitive-for-most-other-regular-verbs">Use “zu + infinitive” for most other regular verbs</h2>
+
+<p>Normal verbs that pair with an infinitive use the <code class="language-plaintext highlighter-rouge">zu</code>:</p>
+
+<ul>
+  <li>Ich <span style="color: mediumslateblue; font-weight: bold">versuche</span>, Deutsch <span style="color: mediumslateblue; font-weight: bold">zu lernen</span></li>
+  <li>Er <span style="color: mediumslateblue; font-weight: bold">hat</span> Angst davor, das Haus <span style="color: mediumslateblue; font-weight: bold">zu verlassen</span></li>
+  <li>Es <span style="color: mediumslateblue; font-weight: bold">lohnt</span> sich, mit dem Zug <span style="color: mediumslateblue; font-weight: bold">zu fahren</span></li>
+  <li>Sie <span style="color: mediumslateblue; font-weight: bold">empfiehlt</span>, eine Monatskarte <span style="color: mediumslateblue; font-weight: bold">zu kaufen</span></li>
+  <li>Ich <span style="color: mediumslateblue; font-weight: bold">hoffe</span>, dich wiedersehen <span style="color: mediumslateblue; font-weight: bold">zu können</span></li>
+</ul>
+
+<p>Nothing can come between <code class="language-plaintext highlighter-rouge">zu</code> and the verb.</p>
+
+<p><strong>Separable prefix verbs</strong> take this even a step further: the <code class="language-plaintext highlighter-rouge">zu</code> slides in between the prefix and the root, because <code class="language-plaintext highlighter-rouge">zu</code> wants to be there right up against that verb root. Nothing can get in between them — not even the separable prefix!</p>
+
+<ul>
+  <li>Ich hoffe, dich wieder<span style="color: mediumslateblue; font-weight: bold">zu</span>sehen</li>
+  <li>Papa bietet immer an, ein Geschenk mit<span style="color: mediumslateblue; font-weight: bold">zu</span>bringen</li>
+  <li>Es fällt mir schwer, aus<span style="color: mediumslateblue; font-weight: bold">zu</span>schlafen</li>
+</ul>
+
+<h2 id="in-order-to-um--zu">In order to…. <code class="language-plaintext highlighter-rouge">um .... zu</code></h2>
+
+<p>Finally if the meaning is “in order to …”, even if in English we leave those words out, then you <em>always</em> use <code class="language-plaintext highlighter-rouge">um ... zu</code></p>
+
+<ul>
+  <li>Wir kochen zu Hause, <span style="color: mediumslateblue; font-weight: bold">um</span> Geld <span style="color: mediumslateblue; font-weight: bold">zu</span> sparen</li>
+  <li><span style="color: mediumslateblue; font-weight: bold">Um</span> mein Deutsch <span style="color: mediumslateblue; font-weight: bold">zu verbessern</span>, schaue ich viel Anime.</li>
+</ul>
+
+<p>That <code class="language-plaintext highlighter-rouge">um</code> is super important! Just remember: <span style="color: mediumslateblue; font-weight: bold">Whenever it’s in order to,</span> <code class="language-plaintext highlighter-rouge">um ... zu</code>!</p>
+
+<ul>
+  <li>You’ll also hear <code class="language-plaintext highlighter-rouge">ohne ... zu</code> and <code class="language-plaintext highlighter-rouge">statt ... zu</code> which are “without doing” and “instead of doing”:</li>
+  <li>Michael ging weg, <span style="color: mediumslateblue; font-weight: bold">ohne</span> ein Wort <span style="color: mediumslateblue; font-weight: bold">zu sagen</span>.</li>
+  <li>Andrea ist hier geblieben, <span style="color: mediumslateblue; font-weight: bold">statt</span> nach London <span style="color: mediumslateblue; font-weight: bold">zu fliegen</span>.</li>
+</ul>
+
+<h2 id="recap">Recap</h2>
+
+<ul>
+  <li>The six modal helper verbs
+<br />➡️ No <code class="language-plaintext highlighter-rouge">zu</code> needed <br /><br /></li>
+  <li>Most regular verbs
+<br /> ➡️ use <code class="language-plaintext highlighter-rouge">zu</code> + the infinitive<br /><br /></li>
+  <li>In order to?
+<br />➡️ <code class="language-plaintext highlighter-rouge">um ... zu</code>!<br /><br /></li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Zu</code> is extremely versatile and there are lots of other ways to use it beyond just these verb expressions. You’ll hear it in passive voice with <code class="language-plaintext highlighter-rouge">sein</code>; it’s also a preposition of course; and <code class="language-plaintext highlighter-rouge">zu</code> can even mean “closed”. We’ll save all those things for another day.</p>
+
+<p>Have fun,</p>
+
+<p>..b</p>]]></content><author><name>Billy Charlton</name></author><category term="grammar" /><summary type="html"><![CDATA[zu + infinitives]]></summary></entry><entry><title type="html">Billy’s Guide to Adjective Endings for Immersion - no tables</title><link href="https://billyc.github.io//immersion/2022/adjectives" rel="alternate" type="text/html" title="Billy’s Guide to Adjective Endings for Immersion - no tables" /><published>2022-10-08T00:00:00+02:00</published><updated>2022-10-08T00:00:00+02:00</updated><id>https://billyc.github.io//immersion/2022/adjectives</id><content type="html" xml:base="https://billyc.github.io//immersion/2022/adjectives"><![CDATA[<p>Ah, adjective endings – let’s be honest, people say this is German at its worst. The rules only “sort-of” make any sense, but here we are and we want to get them mostly right when we speak. It’s actually not that complicated once it clicks, but acquiring it fully can be a chore.</p>
+
+<p>Adjective endings depend on the gender of the noun (masculine, feminine, or neuter), so it’s pretty hard to get the endings right if you don’t know the noun’s gender. Immerse until you get a feel for the gender of your nouns! Then come back here.</p>
+
+<p>This guide is for <strong>adjectives that come before nouns</strong> in the sentence. If you’re saying something simple like <code class="language-plaintext highlighter-rouge">Das Haus ist alt</code> you simply leave the adjective alone.</p>
+
+<p>Ok let’s go!</p>
+
+<h2 id="normal-versus-weird-articles">“Normal” versus “Weird” articles</h2>
+
+<p>From immersion you already know that <span style="color: mediumslateblue; font-weight: bold">der, die, das</span> feel like the “normal” articles for masculine, feminine, and neuter nouns.</p>
+
+<p>Then there are those <span style="color: mediumslateblue; font-weight: bold">weird articles</span> used for the other cases: <span style="color: mediumslateblue; font-weight: bold">dem, den, der, des</span> feel kinda weird, right? And for today we will also decide that <span style="color: mediumslateblue; font-weight: bold">die for plural</span> is weird, too. (I mean, “die” is for feminine right? Why is it also used for plural? That’s <em>weird!</em>)</p>
+
+<h2 id="if-the-article-is-normal-use--e">If the article is normal, use “-e”</h2>
+
+<ul>
+  <li>Der klein<span style="color: mediumslateblue; font-weight: bold">e</span> Fuchs</li>
+  <li>Ich sehe die dick<span style="color: mediumslateblue; font-weight: bold">e</span>, grün<span style="color: mediumslateblue; font-weight: bold">e</span> Gurke</li>
+  <li>Das weiß<span style="color: mediumslateblue; font-weight: bold">e</span> Haus ist kein Waisenhaus</li>
+</ul>
+
+<p>In all of those examples, the article is there, it is normal and nothing strange is happening. So add “-e” to your adjective and you are all set</p>
+
+<h2 id="if-the-article-is-weird-use--en">If the article is weird, use “-en”</h2>
+
+<p>If your ears hear a “weird” article – <em>den or dem</em>, or <em>der</em> for a feminine noun, <em>die</em> for a plural – then use “-en” instead</p>
+
+<ul>
+  <li>Harry schläft in einem dunkl<span style="color: mediumslateblue; font-weight: bold">en</span> Schrank. <br />(Schrank is masculine, but <em>in einem Schrank</em> is weird!)</li>
+  <li>Der klein<span style="color: mediumslateblue; font-weight: bold">e</span> Fuchs schläft in der klein<span style="color: mediumslateblue; font-weight: bold">en</span> Hütte. <br />(Hütte is feminine but <em>in der Hütte</em> is weird!)</li>
+  <li>Sie hat einen rot<span style="color: mediumslateblue; font-weight: bold">en</span> Ball gefunden. (einen Ball: weird!!)</li>
+  <li>Die klug<span style="color: mediumslateblue; font-weight: bold">en</span> Studenten kapieren alles. (die for plural! Weird.)</li>
+  <li>Bis zum nächst<span style="color: mediumslateblue; font-weight: bold">en</span> Mal! <br /> <em>See you next time! zum is “zu dem” which is totally weird. So we get “-en”!</em></li>
+</ul>
+
+<p>This works whenever the article is present and is… weird.</p>
+
+<h2 id="sometimes-the-article-is-missing-or-doesnt-have-an-ending-at-all">Sometimes the article is missing or doesn’t have an ending at all</h2>
+
+<p>Here’s the only tricky one, but it’s less common than the other two: sometimes the article trick doesn’t work, <em>because there is no article!</em> And the indefinite article <span style="color: mediumslateblue; font-weight: bold">ein</span> doesn’t mark whether its noun is masculine or neuter; <em>ein</em> is used for both genders and that’s imprecise. German doesn’t like imprecision.</p>
+
+<p>If the noun stands alone without any article at all, or if the article is <code class="language-plaintext highlighter-rouge">ein</code> and you can’t tell whether the noun is masculine or neuter, then German just… <em>really</em> wants us to mark that noun with an ending somehow, so that we know what case it’s in. Consider this the “case of the missing case”.</p>
+
+<p>For these, the <strong>final letter from the missing article itself is tacked onto the adjective.</strong> That way, we know for sure if the noun is the subject or the object or whatever. There is a buffer “-e” so that the rhythm of the adjective ending is always a separate (and unstressed) syllable.</p>
+
+<p>Some examples should make this clear, and this will definitely start to “sound right” with immersion, so don’t panic:</p>
+
+<ul>
+  <li>Grün<span style="color: mediumslateblue; font-weight: bold">er</span> Tee ist gesund. <br /> <em>It’s “der Tee” but we have no article here, so the “r” shifts and we get “grüner Tee.”</em><br /><br /></li>
+  <li>Ich mag heiß<span style="color: mediumslateblue; font-weight: bold">e</span> Pizza und kalt<span style="color: mediumslateblue; font-weight: bold">es</span> Bier. <br /> <em>It’s die Pizza and das Bier, so the “-e” and “-es” get added to the adjectives.</em> <br /><br /></li>
+  <li>Ich sehe ein groß<span style="color: mediumslateblue; font-weight: bold">es</span>, rot<span style="color: mediumslateblue; font-weight: bold">es</span> Haus <br /> <em>I see a big, red house; should be “das Haus” but there is no “das” or “s” anywhere in sight. The “-s” from “das” gets tacked onto the adjectives.</em> <br /><br /></li>
+  <li>Ich trinke nur kalt<span style="color: mediumslateblue; font-weight: bold">en</span> Wein. <br /> <em>I only drink cold wine; the wine is what I drink, so it would be “den Wein” but there is no “den” … so yep the “-n” from “den” goes on the adjective</em> <br /><br /></li>
+  <li>Ich esse grün<span style="color: mediumslateblue; font-weight: bold">e</span> Tomaten. <br /><em>I’m eating green tomatoes; plural would be “di<span style="color: mediumslateblue; font-weight: bold">e</span> Tomaten” so we get that “-e” on the adjective.</em> <br /><br /></li>
+</ul>
+
+<h2 id="recap">Recap</h2>
+
+<p>With these three guidelines you can get every adjective ending correct:</p>
+
+<ol>
+  <li>Adjectives following “normal” articles get <code class="language-plaintext highlighter-rouge">-e</code></li>
+  <li>Adjectives after “weird” articles all get <code class="language-plaintext highlighter-rouge">-en</code></li>
+  <li>Adjectives bear the burden of the final letter of any missing article, so you can hear/understand what case the noun is in.</li>
+</ol>
+
+<h2 id="bonus-round-this-works-in-reverse-too">Bonus Round: This works in reverse, too!</h2>
+
+<p>This guide is written to help you <strong>produce</strong> adjective endings, but for immersion learners this will help you <strong>understand spoken German, too.</strong></p>
+
+<p>Now, whenever you hear adjectives with the <code class="language-plaintext highlighter-rouge">-en</code> ending, you instantly know that the phrase was in something weird! Your ears and brain have now been primed to think “hey, that was probably an object”, or maybe it was in a weird prepositional phrase.</p>
+
+<p>As English natives, we are always expecting word order to tell us what’s the subject and what’s the object. This one weird trick will help you notice when speakers have flipped things around on you.</p>
+
+<p>And hearing those other weird endings like <code class="language-plaintext highlighter-rouge">-es</code> and <code class="language-plaintext highlighter-rouge">-er</code> over and over helps us, too: they are secretly telling you the gender of nouns that you might not otherwise know.</p>
+
+<p>Have fun,</p>
+
+<p>..b</p>]]></content><author><name>Billy Charlton</name></author><category term="grammar" /><summary type="html"><![CDATA[Ah, adjective endings – let’s be honest, people say this is German at its worst. The rules only “sort-of” make any sense, but here we are and we want to get them mostly right when we speak. It’s actually not that complicated once it clicks, but acquiring it fully can be a chore.]]></summary></entry><entry><title type="html">Billy’s Guide to German Prepositions</title><link href="https://billyc.github.io//immersion/2022/prepositions" rel="alternate" type="text/html" title="Billy’s Guide to German Prepositions" /><published>2022-10-05T00:00:00+02:00</published><updated>2022-10-05T00:00:00+02:00</updated><id>https://billyc.github.io//immersion/2022/prepositions</id><content type="html" xml:base="https://billyc.github.io//immersion/2022/prepositions"><![CDATA[<p>There are a zillion rules for figuring out what articles (der/die/das/d..) to use with German prepositions, but I think I’ve distilled it down into a couple tips that get you there almost all the time! And without giant tables of articles to memorize.</p>
+
+<p>Follow along!</p>
+
+<h2 id="step-1-you-have-to-know-the-nouns-gender-first-or-its-all-hopeless">Step 1: You have to know the noun’s gender first or it’s all hopeless</h2>
+
+<p>Prepositions are called “pre-positions” for a reason: they always precede a noun or pronoun. You will never get the article right if you don’t know whether the noun is masculine, feminine or neuter. So, immerse until you get a feel for the gender of your nouns! There are plenty of hints based on either the noun’s endings (e.g., “-ung” is feminine, “-chen” is neuter) or the type of word (e.g., months are masculine).</p>
+
+<p>However you figure it out, you need to know your genders first.</p>
+
+<h2 id="step-2a-most-of-the-time-prepositions-use-the-dative-case-and-articles">Step 2a: Most of the time, prepositions use the dative case and articles</h2>
+
+<p>Prepositions <strong>change the articles of the nouns</strong> that follow them. Why? I have no idea. They just do, there is no “why”. This means that when you see “in der Wohnung”, the noun “Wohnung” doesn’t get its usual “die” article. Wohnung is still a feminine noun! It’s just that the preposition “in” deforms the article that follows it. This will make sense if you keep reading so follow along.</p>
+
+<p>The default if you are not sure: <strong>use the dative!</strong> This will be correct probably 3/4 of the time, and that’s pretty good already!</p>
+
+<p>Dative is pretty easy:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">die</code> becomes <code class="language-plaintext highlighter-rouge">der</code></li>
+  <li><code class="language-plaintext highlighter-rouge">der</code> and <code class="language-plaintext highlighter-rouge">das</code> both become <code class="language-plaintext highlighter-rouge">dem</code></li>
+  <li>All plurals use <code class="language-plaintext highlighter-rouge">den</code> – <em>and the noun itself gets an extra <code class="language-plaintext highlighter-rouge">-n</code> on the end</em></li>
+</ul>
+
+<p>Examples:</p>
+
+<ul>
+  <li>Die Geschichte mit <span style="color: mediumslateblue; font-weight: bold">der</span> Maus</li>
+  <li>Er hat Angst vor <span style="color: mediumslateblue; font-weight: bold">den</span> Hunde<span style="color: mediumslateblue; font-weight: bold">n</span></li>
+  <li>Es ist gefährlich bei <span style="color: mediumslateblue; font-weight: bold">dem</span> Wetter</li>
+  <li>Kaum auf <span style="color: mediumslateblue; font-weight: bold">dem</span> Markt und schon vergriffen.</li>
+</ul>
+
+<h2 id="step-2b-however-some-prepositions-always-take-accusative-while-others-always-take-the-genitive-case">Step 2b: However, some prepositions always take accusative, while others always take the genitive case</h2>
+
+<p>There is a very short list of prepositions that always, always, take either accusative or genitive. No exceptions! So these will eventually just “sound right” with enough immersion:</p>
+
+<p><span style="color: mediumslateblue; font-weight: bold">durch, für, ohne, um, gegen</span> always use the accusative articles. And accusative is even easier than dative:</p>
+
+<ul>
+  <li>Masculine <code class="language-plaintext highlighter-rouge">der</code> becomes <code class="language-plaintext highlighter-rouge">den</code></li>
+  <li>The rest don’t change at all! Feminine and plurals keep <code class="language-plaintext highlighter-rouge">die</code> and neuter keeps <code class="language-plaintext highlighter-rouge">das</code>. There’s no step 3!</li>
+</ul>
+
+<p><span style="color: mediumslateblue; font-weight: bold">statt, trotz, wegen, während</span> always use genitive – <em>but even this is changing and you’ll hear natives just using dative for these nowadays</em></p>
+
+<ul>
+  <li>Masculine and neuter use <code class="language-plaintext highlighter-rouge">des</code> – <em>and the noun itself gets an extra ‘-s’ on the end</em></li>
+  <li>Feminine and plurals use <code class="language-plaintext highlighter-rouge">der</code></li>
+  <li>There are a few others that take this case, but they are not in common usage. You’ll hear them eventually.</li>
+</ul>
+
+<h2 id="step-3-the-only-tricky-ones-these-nine-prepositions-use-the-action-accusative-dull-dative-rule">Step 3: The only tricky ones: These nine prepositions use the <span style="color: mediumslateblue">Action: Accusative! Dull, Dative</span> rule.</h2>
+
+<p><span style="color: mediumslateblue; font-weight: bold">an, auf, in, über, unter, neben, zwischen, hinter, vor</span></p>
+
+<p>This set of very common spatial prepositions are dative by default, but they use accusative when there is a <strong>change of location</strong> or a <strong>change in state</strong>. Note that motion by itself <em>without changing your location or state</em> doesn’t trigger the accusative: so, jumping up and down or running in place don’t count.</p>
+
+<p>Think of it as the difference between being <strong>in</strong> a place (dative), versus <strong>going into</strong> a place (accusative).</p>
+
+<p>So if a cat is just sitting on the couch, or sleeping under the table, it’s dull dative. If the cat <strong>jumps onto</strong> the couch, it’s active accusative!</p>
+
+<ul>
+  <li>Die Katze <span style="color: mediumslateblue; font-weight: bold">schläft</span> auf <span style="color: mediumslateblue; font-weight: bold">dem</span> Sofa.</li>
+  <li>Die Katze <span style="color: mediumslateblue; font-weight: bold">springt</span> auf <span style="color: mediumslateblue; font-weight: bold">den</span> Tisch!!*</li>
+  <li>Der Mann <span style="color: mediumslateblue; font-weight: bold">wartet</span> neben <span style="color: mediumslateblue; font-weight: bold">der</span> Tür</li>
+  <li>Der Mann <span style="color: mediumslateblue; font-weight: bold">läuft</span> bis an <span style="color: mediumslateblue; font-weight: bold">die</span> Tür</li>
+  <li>Das hässliche Entlein verwandelte sich <span style="color: mediumslateblue; font-weight: bold">in einen</span> wunderschönen Schwan. <br />(The swan changed its state, not its location! Still pretty active, yo!)</li>
+</ul>
+
+<p><span style="color: mediumslateblue; font-weight: bold">*Bonus round!</span> If you say, <em>Die Katze springt auf <span style="color: mediumslateblue; font-weight: bold">dem</span> Tisch</em> instead of “auf <span style="color: mediumslateblue; font-weight: bold">den</span> Tisch”, that actually means the cat is jumping up and down on top of the table – not jumping onto it. That cat is annoying! What is wrong with that cat? Maybe it’s trying to catch a fly or something.</p>
+
+<h2 id="step-4-some-combos-contract">Step 4: Some combos contract!</h2>
+
+<p>You’ll hear natives contracting a lot of the preposition+article combinations. Many of these are <strong>so common</strong> that you will almost never hear them split apart as separate words!</p>
+
+<ul>
+  <li><span style="color: mediumslateblue; font-weight: bold">im</span> (in dem); <span style="color: mediumslateblue; font-weight: bold">ins</span> (in das)</li>
+  <li><span style="color: mediumslateblue; font-weight: bold">zum</span> (zu dem); <span style="color: mediumslateblue; font-weight: bold">zur</span> (zu der)</li>
+  <li><span style="color: mediumslateblue; font-weight: bold">fürs</span> (für das)</li>
+  <li><span style="color: mediumslateblue; font-weight: bold">ans</span> (an das); <span style="color: mediumslateblue; font-weight: bold">aufs</span> (auf das)</li>
+  <li>And so on. Just pick these up as you hear them, because there are quite a few.</li>
+</ul>
+
+<h2 id="recap">Recap</h2>
+
+<p>That’s it! So to recap: (1) Use dative, (2) except for the prepositions that you hear in immersion are always using one of the other cases, (3) and action verbs use accusative!</p>
+
+<p>Oh and learn those noun genders or it’s all pointless, lol!</p>
+
+<p>Let me know if this makes more sense than the usual grammar book rules!</p>
+
+<p>Have fun! ..b</p>]]></content><author><name>Billy Charlton</name></author><category term="grammar" /><summary type="html"><![CDATA[There are a zillion rules for figuring out what articles (der/die/das/d..) to use with German prepositions, but I think I’ve distilled it down into a couple tips that get you there almost all the time! And without giant tables of articles to memorize.]]></summary></entry><entry><title type="html">Summer update: two months of immersion</title><link href="https://billyc.github.io//immersion/2022/summer-update" rel="alternate" type="text/html" title="Summer update: two months of immersion" /><published>2022-09-23T00:00:00+02:00</published><updated>2022-09-23T00:00:00+02:00</updated><id>https://billyc.github.io//immersion/2022/summer-update</id><content type="html" xml:base="https://billyc.github.io//immersion/2022/summer-update"><![CDATA[<p>Mini check-in after two months of immersion!</p>
+
+<ul>
+  <li>
+    <p>Comprehension is improving. I still have to pay serious attention to follow anything, but when I do I am getting somewhere around 75% of what’s said, depending on the content.</p>
+  </li>
+  <li>
+    <p>Wearing earbuds makes a massive difference in being able to parse what’s being said. Playing anything over laptop speakers or thru the TV itself makes me drop to &lt; 50% understanding. I assume this will get easier as my brain gets more used to German, right? I hope so…</p>
+  </li>
+  <li>
+    <p>I listen to the audio of shows I’ve already watched using my mp3 player while I’m at the gym and bike commuting. This has been really helpful after active immersion / sentence mining, I recommend it!</p>
+  </li>
+  <li>
+    <p>I’m not really using Anki at all. I’m just writing down new things that I hear into a notepad. I still call this sentence mining though 🙂</p>
+  </li>
+  <li>
+    <p>This month I finished <em>Neon Genesis: Evangelion</em> (series + movies), and I’m now watching <em>Star Blazers</em> as well as this very gay drama on ARD called <em>All You Need</em>. Honestly it’s terrible but it’s an antidote to all the schoolgirl anime I’ve watched thus far. Men with beards! Finally 😂</p>
+  </li>
+  <li>
+    <p>I’ve begun watching some YouTubers to shift toward “native content for natives” instead of dubs; mostly videogame channels including Ulti and Jinja. <a href="https://www.youtube.com/c/DeutschmitBenjamin/featured">Deutsch mit Benjamin</a> is also oddly compelling!!!</p>
+  </li>
+  <li>
+    <p><em>Pokemon: Smaragd Edition</em> in German is awesome! Download the <a href="https://mgba.io/faq.html">mGBA emulator</a> and start playing!</p>
+  </li>
+</ul>
+
+<h2 id="verdict">Verdict</h2>
+
+<p>OK so I feel like I’m spending a TON of time in immersion between all of these different mixed up activities. Not sure if I can maintain this level through the fall, once classes start in October it’ll be harder. But my motivation is sky-high right now.</p>
+
+<p>If this keeps up, I’m hopeful I can bump to stage <code class="language-plaintext highlighter-rouge">Stage 2C</code> by the end of October! Time will tell. Exciting!</p>]]></content><author><name>Billy Charlton</name></author><category term="blog" /><summary type="html"><![CDATA[Mini check-in after two months of immersion!]]></summary></entry><entry><title type="html">Check-in after one month</title><link href="https://billyc.github.io//immersion/2022/one-month" rel="alternate" type="text/html" title="Check-in after one month" /><published>2022-08-23T00:00:00+02:00</published><updated>2022-08-23T00:00:00+02:00</updated><id>https://billyc.github.io//immersion/2022/one-month</id><content type="html" xml:base="https://billyc.github.io//immersion/2022/one-month"><![CDATA[<p>The MP3 player is really proving to be super-useful, as I listen to things over and over again to make sure that I can parse (almost) every sentence that I hear. I think having video off and having my phone away both let me concentrate on the language in a very focused manner. Obviously I watch the episodes a couple times first before I switch to the MP3 audio-only repetition. The show has lots of visual narration so it wouldn’t work any other way. But yeah, the audio-only seems to be helping.</p>
+
+<p>But is my listening comprehension for new material actually improving? It’s hard to tell.</p>
+
+<h2 id="neon-genesis-evangelion">Neon Genesis: Evangelion</h2>
+
+<p>There are still entire sentences that get lost on first listen. Some episodes are easier than others; in fact some scenes I can follow completely. For others I need to flip the subtitles on and try to decipher what I heard. The subtitles for this show don’t match the audio perfectly, which leaves me guessing, too.</p>
+
+<p>This show is more complex with lots of sci-fi mumbo-jumbo which I’m trying to take in and kinda ignore. But ultimately it is a dubbed children’s show, so at some point I need to be able to follow it. Not gonna lie that it’s a struggle; it’s definitely <code class="language-plaintext highlighter-rouge">i+1</code> meaning it’s challenging me.</p>
+
+<p>On the Discord server, some of the learners say that I just need to keep plowing through and that there will be a breakthrough moment when my brain just hears German words, even if I don’t understand them all. I am looking forward to that happening – but we are not there yet.</p>
+
+<p>I am on episode six of twenty-four. Then there are two final movies.</p>
+
+<h2 id="verdict">Verdict</h2>
+
+<p>Keep going.</p>]]></content><author><name>Billy Charlton</name></author><category term="blog" /><summary type="html"><![CDATA[The MP3 player is really proving to be super-useful, as I listen to things over and over again to make sure that I can parse (almost) every sentence that I hear. I think having video off and having my phone away both let me concentrate on the language in a very focused manner. Obviously I watch the episodes a couple times first before I switch to the MP3 audio-only repetition. The show has lots of visual narration so it wouldn’t work any other way. But yeah, the audio-only seems to be helping.]]></summary></entry><entry><title type="html">Some progress!</title><link href="https://billyc.github.io//immersion/2022/immersion-week-03" rel="alternate" type="text/html" title="Some progress!" /><published>2022-08-14T00:00:00+02:00</published><updated>2022-08-14T00:00:00+02:00</updated><id>https://billyc.github.io//immersion/2022/immersion-week-03</id><content type="html" xml:base="https://billyc.github.io//immersion/2022/immersion-week-03"><![CDATA[<h2 id="how-big-are-the-dumbbells-you-lift">How big are the dumbbells you lift?</h2>
+
+<p>I finished “How Big Are the Dumbbells You Lift?” this week! It was super hilarious and I loved it. WAAY more fun than last week’s “Bloom Into You.”</p>
+
+<p>The MP3 player trick – copying the audio of a few eps to my player and listening to it at the gym, on my bike, at the grocery store – really helped me solidify the problem sentences. The first time I would watch an episode, I’d have to pause and look at subtitles constantly to figure out what was being said. But once I did know the words, listening on repeat cemented those sounds in my brain.</p>
+
+<p>I think this method is actually working!</p>
+
+<h2 id="kikis-delivery-service">Kikis Delivery Service</h2>
+
+<p>Then I tackled a full-length movie. I can honestly say that several times during this film I forgot I was listening in German. My brain would “pop” back to English consciousness and then I’d get all excited that I had forgotten for a while. THAT was a super cool feeling!!</p>
+
+<p>Also: great movie, obviously.</p>
+
+<h2 id="flashcards">Flashcards</h2>
+
+<p>I am still making a few flashcards per day for new words and expressions, but I have not been doing much. Just for words that I kinda notice in a strange way and feel like I might need to write down to remember.</p>
+
+<h2 id="verdict">Verdict</h2>
+
+<p>I can tell this is working. Even when turning the TV news on, it feels like I can “keep up” a bit better than a month ago. It’s not even been a whole month. This might be placebo effect? We’ll find out… next!</p>]]></content><author><name>Billy Charlton</name></author><category term="blog" /><summary type="html"><![CDATA[How big are the dumbbells you lift?]]></summary></entry><entry><title type="html">Immersion checkin</title><link href="https://billyc.github.io//immersion/2022/immersion-week-01" rel="alternate" type="text/html" title="Immersion checkin" /><published>2022-08-01T00:00:00+02:00</published><updated>2022-08-01T00:00:00+02:00</updated><id>https://billyc.github.io//immersion/2022/immersion-week-01</id><content type="html" xml:base="https://billyc.github.io//immersion/2022/immersion-week-01"><![CDATA[<h2 id="one-anime-series-completed">One anime series completed!!</h2>
+
+<p>I finished “Bloom Into You” this week. It’s considered “very easy” but it took me lots of time to comprehend some of the sentences without subtitles. I listened to the first few eps over and over with my MP3 player until some of the expressions made more sense.</p>
+
+<p>This show was not interesting to me. The excitement of trying immersion got me through the first half, but the story was just not for me. That’s OK; if you don’t like something just move on! I did manage to finish it.</p>
+
+<p>Next stop: “How Big are the Dumbbells You Lift?” which I am completely hooked on after the first episode. It’s very tongue-in-cheek and self-aware about the ridiculous body tropes in anime. Lots of slapstick about bodybuilders and weightloss in a really crazy story so far. I think I love it.</p>
+
+<h2 id="flashcards">Flashcards</h2>
+
+<p>I am making a few flashcards per day for new words and expressions, and I also am working through a pre-made deck with all the subtitle sentences from Bloom Into You.</p>
+
+<p>Audio flashcards are helping me hear things that run together in my head – the Bloom Into You cards have each sentence of audio as a separate card, with the subtitle on the back. This has been super helpful to listen over and over (on the hard ones) to split out all those pronouns and particles.</p>
+
+<p>But I will probably drop that pretty soon as I’ve already moved on from the series. It’s helping but it’s boring. Gotta keep the interest level up!</p>
+
+<h2 id="time--effort">Time &amp; Effort</h2>
+
+<p>I am not tracking this with an app or anything. I think I’m spending 1.5-2 hours per day either watching shows on my laptop (active immersion / studying) or listening to the MP3s while doing dishes, biking, on the U-bahn (passive listening).</p>
+
+<h2 id="verdict">Verdict</h2>
+
+<p>One week in: so far, so good. I am already having an easier time getting thru an episode of anime. It’s difficult to “embrace the ambiguity” and just let some sentences flow past me when I have the subtitles off. I need to accept that I’ll figure out some of it later when I go back and check – or sometimes just let it go.</p>]]></content><author><name>Billy Charlton</name></author><category term="blog" /><summary type="html"><![CDATA[One anime series completed!!]]></summary></entry><entry><title type="html">Starting German Immersion</title><link href="https://billyc.github.io//immersion/2022/starting-immersion" rel="alternate" type="text/html" title="Starting German Immersion" /><published>2022-07-25T00:00:00+02:00</published><updated>2022-07-25T00:00:00+02:00</updated><id>https://billyc.github.io//immersion/2022/starting-immersion</id><content type="html" xml:base="https://billyc.github.io//immersion/2022/starting-immersion"><![CDATA[<h2 id="the-problem">The Problem</h2>
+
+<p>According to the test, I’m at B2-level in German, but my ability to understand spoken German is far below that level. I struggle to follow conversations between native speakers on the street here in Berlin. I think I am closer to A2 in listening comprehension.</p>
+
+<p>My brain “knows” at least a few thousand words by now, in fact I can read German books as long as I can look up words I don’t recognize here and there. But converting this conscious brain knowledge into fluent, unconsciously-flowing speech has been elusive.</p>
+
+<p>Does this sound like a familiar story? What to do to fix this? I want to speak and understand German!</p>
+
+<h2 id="immersion-in-media-to-learn-the-spoken-language">Immersion in media to learn the spoken language</h2>
+
+<p>I’ve spent lots of time watching YouTube channels (in English) that explain how to upgrade your language skills, and everyone talks about “Comprehensible Input.” Last week, I found the <a href="https://www.youtube.com/c/MATTvsJapan">Matt vs Japan</a> YouTube channel where he describes how he learned perfectly fluent Japanese by immersing himself in Japanese-language media for hours a day over the course of months and years. Based on his results, it seems compelling. He goes around a Japanese grocery and people can’t believe he learned it from watching TV. A LOT of TV. Hours per day.</p>
+
+<p>Thus this is not a <em>Learn Japanese in 10 minutes</em> or even <em>In 3 Months</em> kind of strategy. It requires tons of effort, ideally daily, over the course of months or years. Rather than a two-day scuba lesson in Mexico, think of it as more similar to a weight loss program – it takes consistent effort over a long period of time.</p>
+
+<p>But according to him and to others like him, this doesn’t feel like drudgery or work: it feels like watching TV! In a new fun language that you want to learn, and (eventually) you’re watching stuff that you want to watch anyway. Making it fun takes all of the dreariness out of it.</p>
+
+<p>This sounds great, right? I want to learn German by watching TV, too! Yeah!!!</p>
+
+<h2 id="the-method-x-steps-to-understanding-german-or-any-language">The method: X steps to understanding German (or any language)</h2>
+
+<p>As far as I can tell, these are the basics of how it works:</p>
+
+<ol>
+  <li>
+    <p>You need to know the sounds and writing system of your language. For German, there are <a href="https://www.youtube.com/watch?v=mzrLZi6fipA">several</a> <a href="https://www.youtube.com/watch?v=kEHfUKJ_yms">short</a> <a href="https://www.youtube.com/watch?v=Pg2NMEONKxk">videos</a> on recognizing and pronouncing the handful of sounds that we don’t have in English. I’m already past this point but you will need this before you can dive in.</p>
+  </li>
+  <li>
+    <p>Let go of your anxiety about not understanding everything. You are going to spend a lot of time watching TV, YouTube, cartoons, whatever – in a language that you don’t understand yet. Even so, you must pay close attention while you watch, and try to tease out the sounds of the language, notice any words you catch, and eventually you will catch more and more. This is exhausting at first but you will get past it. Trust the method.</p>
+  </li>
+  <li>
+    <p>Listening to gibberish doesn’t help much; it needs to be at least somewhat comprehensible, so you need to start at your level or maximum “i+1” – meaning something just above your level – to stretch your brain a bit. If it’s too hard, you give up. For me that meant anime cartoons dubbed into German; basically childrens or teen shows that have consistent narratives and characters, simple storylines, and speech restricted to a smaller domain. School, fantasy, robots, whatever. Toddler/baby shows are way too boring for adults, so you should jump to the stuff for older kids, targeted age 7-12 or so is ideal. True adult shows are going to be too hard at first. You’ll get there in a few months.</p>
+  </li>
+  <li>
+    <p>Watch each show at least twice: once with subtitles completely off. You will understand the gist from the pictures and the body language. Then watch again with subtitles on; you’ll see what a lot of those missed words were. You can pause at each subtitle line to give yourself time to pick it apart. I would usually then watch a third time (or more) to say “a-ha, there’s that word again!”. It’s important to do as much of this as possible with ALL subtitles OFF. You are training your ears.</p>
+  </li>
+  <li>
+    <p>Use <a href="https://apps.ankiweb.net/">Anki</a> or a similar SRS flashcard app to create and practice vocab cards, or full sentence cards with just one word you don’t know. I like Anki because it lets you store text, images, audio clips, anything you want. This method focuses on understanding (listening), not production (talking), which means you only need to make cards in one direction. The front of the card has the target language word, text, audio, whatever – and the back has the meaning, either written or with pictures. Try to avoid putting English on your cards if you can; for nouns a picture is often good enough. Eventually this will get easier as you learn more words. I found Anki works best when you create the cards yourself, instead of using pre-made decks.</p>
+  </li>
+  <li>
+    <p>Study your Anki cards every morning when you wake up. This is how you build up to your first 1000 or so words. Once you’ve got the most common words learned, your comprehension of the first few shows is going to skyrocket.</p>
+  </li>
+  <li>
+    <p>If you can convert/extract the audio mp3 of the show you just watched, you can also put it on your phone or music player and listen to it passively over and over, obsessively until you understand more and more. :-)</p>
+  </li>
+  <li>
+    <p>Watch multiple entire series episode by episode to focus your comprehension on this one narrow domain first. Then find another similar show. The more similar they are, the better! Especially at first, e.g. the first few months, you want to get really good at this tiny “safe zone” of one domain. Once you have solid understanding, you can branch out to more challenging things like “slice of life” TV shows (Friends, etc) that are about daily situations. “Solid” understanding doesn’t mean you should understand 100%; just “pretty good” is good enough at this point. Your brain will know when it’s time to up the challenge. You should always strive for “i+1” so that you keep learning.</p>
+  </li>
+  <li>
+    <p>Notice I didn’t say anything about grammar yet? Don’t freak out about grammar. Learning grammar rules help you pass grammar tests; they don’t help you understand fast-flowing speech. You will slowly piece together all those weird rules subconsciously. This is how kids do it!</p>
+  </li>
+  <li>
+    <p>Yeah sure, but since we’re adults, it’s okay and even beneficial to get the gist of grammar from an introductory guide. Don’t sweat the details! Having a basic understanding of how sentences are formed will jumpstart your comprehension. Pay attention to how you figure out what the subject and verb are, and how the basic past and present tenses are formed. That’s enough to get started! Seriously the rest will just tongue-tie you. Let your brain work it out.</p>
+  </li>
+  <li>
+    <p>Once you’re very comfortable in your safe domain, branch out. You must graduate from dubbed content to native content – produced by natives, for natives – or you will not reach the level you need to have conversations with natives in regular life. Don’t rush this step, but sooner or later you need to tackle real vTubers and TV shows intended for the native audience.</p>
+  </li>
+  <li>
+    <p>Your speaking will improve naturally as your unconscious brain absorbs all of this great input and converts it into understanding of how the language inherently works. At this stage, focus on understanding the language instead of trying to deliberately improve your speaking. This part was hard for me to swallow, because I feel like practicing the language and making mistakes is part of the game; but the method is pretty clear on this point. Your ability to output/speak will just naturally improve if you give your brain enough input. I didn’t mention reading or writing, either: at the early stages it’s best NOT to read much because your innate English will absolutely interfere with your pronunciation of German words. Save the novels for later. So say the experts, anyway.</p>
+  </li>
+</ol>
+
+<p>These steps are not in hermetically-sealed boxes. You can be in multiple phases at the same time for different types of content at varying levels of comfort. This is merely an outline of how the overall approach fits together.</p>
+
+<h2 id="my-own-plan-for-speaking-german">My own plan for speaking German</h2>
+
+<p>I am one week in. I have definitely learned some new words and expressions already, but it’s too soon to see if this really helps me parse spoken German in a more natural way. I’ll try to report back with monthly progress.</p>
+
+<h3 id="first-anime-bloom-into-you">First Anime: Bloom Into You</h3>
+
+<p>My first anime is called “Bloom Into You” and it’s a very earnest “innocent schoolgirls discovering love and friendship” story with LGBT themes. It’s way more earnest and wholesome than my usual sci-fi robot monster fare, but the text is super clear and the subtitles are 100% accurate.</p>
+
+<ul>
+  <li>
+    <p>I don’t think I could survive on this type of content for very long, so my next series absolutely MUST be more personally interesting to me: if it’s not fun, it feels like work.</p>
+  </li>
+  <li>
+    <p>I’ve copied the MP3s onto a tiny $20 MP3 player I picked up from Amazon, and I listen to the episodes over and over before bed, while on the train, etc.</p>
+  </li>
+</ul>
+
+<h3 id="a-smattering-of-things-i-learned-this-week">A smattering of things I learned this week</h3>
+
+<ul>
+  <li>Ehepaar und Ehemann</li>
+  <li>Jemandem einen Korb geben</li>
+  <li>ausgerechnet</li>
+  <li>geschickt reingelegt zu sein</li>
+</ul>]]></content><author><name>Billy Charlton</name></author><category term="blog" /><summary type="html"><![CDATA[The Problem]]></summary></entry></feed>
