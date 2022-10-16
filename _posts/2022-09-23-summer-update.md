@@ -16,7 +16,7 @@ Mini check-in after two months of immersion!
 
 - I'm not really using Anki at all. I'm just writing down new things that I hear into a notepad. I still call this sentence mining though 🙂
 
-- This month I finished _Neon Genesis: Evangelion_ (series + movies), and I'm now watching _Star Blazers_ as well as this a very gay drama on ARD called _All You Need_. Honestly it's terrible but it's an antidote to all the schoolgirl anime I've watched thus far. Men with beards! Finally 😂
+- This month I finished _Neon Genesis: Evangelion_ (series + movies), and I'm now watching _Star Blazers_ as well as this very gay drama on ARD called _All You Need_. Honestly it's terrible but it's an antidote to all the schoolgirl anime I've watched thus far. Men with beards! Finally 😂
 
 - I've begun watching some YouTubers to shift toward "native content for natives" instead of dubs; mostly videogame channels including Ulti and Jinja. [Deutsch mit Benjamin](https://www.youtube.com/c/DeutschmitBenjamin/featured) is also oddly compelling!!!
 

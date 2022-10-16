@@ -70,7 +70,7 @@ This guide is written to help you **produce** adjective endings, but for immersi
 
 Now, whenever you hear adjectives with the `-en` ending, you instantly know that the phrase was in something weird! Your ears and brain have now been primed to think "hey, that was probably an object", or maybe it was in a weird prepositional phrase.
 
-As English natives, we are always expecting word-order to tell us what's the subject and what's the object. This one weird trick will help you notice when speakers have flipped things around on you.
+As English natives, we are always expecting word order to tell us what's the subject and what's the object. This one weird trick will help you notice when speakers have flipped things around on you.
 
 And hearing those other weird endings like `-es` and `-er` over and over helps us, too: they are secretly telling you the gender of nouns that you might not otherwise know.
 
