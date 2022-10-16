@@ -1,5 +1,6 @@
 ---
 title: Billy's Guide to German Prepositions
+blurb: My little guide to choosing the right articles in prepositional phrases
 date: 2022-10-05
 layout: post
 categories: grammar

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Immersion checkin'
+blurb: I watched a lot of anime this week.
 date: 2022-08-01
 categories: blog
 ---

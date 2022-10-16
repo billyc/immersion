@@ -1,5 +1,6 @@
 ---
 title: Billy's Guide to Adjective Endings for Immersion - no tables
+blurb: How to guess the right adjective endings just from it “sounding right”
 date: 2022-10-08
 layout: post
 categories: grammar

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Some progress!'
+blurb: Some success! I can feel it coming.
 date: 2022-08-14
 categories: blog
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Summer update: two months of immersion'
+blurb: Two full months of immersion, and lots of anime
 date: 2022-09-23
 categories: blog
 ---

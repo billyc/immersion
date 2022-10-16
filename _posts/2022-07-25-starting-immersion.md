@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Starting German Immersion'
+blurb: What is immersion all about? What’s my plan for diving in?
 categories: blog
 ---
 
