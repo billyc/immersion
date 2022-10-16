@@ -6,6 +6,7 @@ url: 'https://billyc.github.io/'
 twitter_username: billyinberlin
 github_username: billyc
 theme: minima
+permalink: /:year/:title
 plugins:
   - jekyll-feed
 # Exclude from processing.
