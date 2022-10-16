@@ -6,9 +6,6 @@ body {
   background-color: black;
   box-shadow: 0 0 0 0.5rem #d00, 0 0 0 1rem #fc0;
   border: none;
-  /* 1px solid black; */
-  /* background-color: black;
-  border-bottom: 1rem solid #fc2; */
   margin-bottom: 2rem;
   padding: 1rem 0;
 }
@@ -17,7 +14,8 @@ body {
   color: #ccc;
 }
 
-.site-title {
+.site-title,
+.site-title:visited {
   color: #ccc;
 }
 
@@ -41,8 +39,9 @@ h5 {
   color: #195;
 }
 
-a {
-  color: #2d74c1;
+a,
+a:visited {
+  color: #2571c2;
 }
 
 a:hover {
@@ -60,4 +59,14 @@ a:hover {
 
 .h3-link {
   margin-bottom: 0.2rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .site-nav {
+    margin-top: 1rem;
+  }
+
+  .site-nav .page-link {
+    color: #666;
+  }
 }
