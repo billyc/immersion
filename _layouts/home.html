@@ -9,46 +9,38 @@ layout: default
 
   {{ content }}
 
-{%- if site.posts.size > 0 -%}
-  <h2 class="post-list-heading">{{ page.list_title | default: "Grammar Guides" }}</h2>
+  <h2 class="post-list-heading">Grammar Guides</h2>
   <ul class="post-list">
     {%- for post in site.categories.grammar -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <h3 class="h3-link">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+        {{ post.blurb }}
       </li>
     {%- endfor -%}
   </ul>
-{%- endif -%}
 
-{%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Immersion Updates" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.categories.blog -%}
-        <li>
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%}
-        </li>
-      {%- endfor -%}
-    </ul>
+  <h2 class="post-list-heading">Personal blog: Immersion Updates</h2>
+  <ul class="post-list">
+    {%- for post in site.categories.blog -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3 class="h3-link">
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      {{ post.blurb }}
+    </li>
+    {%- endfor -%}
+  </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
 </div>
