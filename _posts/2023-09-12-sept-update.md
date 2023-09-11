@@ -18,7 +18,7 @@ language under my belt.
 
 So let's see if this works!
 
-**June**
+### June
 
 I was in Turkey for almost three weeks, and talked _about Turkish_ with my cousin quite a bit, and
 some of my previous knowledge did resurface. I can conjugate a simple verb and I remember lots of the
@@ -34,8 +34,8 @@ The hope was that my enthusiasm wouldn't dissipate upon returning to Berlin.
 
 ### July
 
-**Vocabulary:** I committed Anki to 20 new words a day, and I went letter by letter adding those words to Anki,
-using Refold's recommended Anki settings. 
+**Vocabulary:** I committed to using Anki for 20 new words a day, and I went letter by letter adding 
+those words to Anki, creating cards for each and using Refold's recommended Anki settings. 
 
 - For each word I did an image search on the word itself, or on the English translation if those images 
   didn't make much sense. I grabbed the most memorable image.
@@ -43,11 +43,11 @@ using Refold's recommended Anki settings.
 - I also put each word into Context Reverso to find a good sample sentence which used the word in
   context. Great resource!
 
-- For some words I resisted the temptation to put the English translation, but for others I felt it
-  would be necessary, so I did.
+- For some words I resisted the temptation to put the English translation, but for others it felt
+  like it would be necessary, so I did.
 
 **Grammar:** I also started to re-skim through my _Turkish in Three Months_ grammar book as well as the [elon
-turkish]() grammar website to pick up the meaning and usage of the many different suffixes. This
+turkish]() grammar website to pick up the meaning and usage of the endless different suffixes. This
 part was not entirely new to me, as I have tried to read Turkish grammar books before. So I think,
 as immersion learners go, I probably need less focus on grammar than someone starting cold. But even
 so, Turkish is _so different from western languages_ that reading up on the grammar is absolutely
