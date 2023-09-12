@@ -35,9 +35,11 @@ The hope was that my enthusiasm wouldn't dissipate upon returning to Berlin.
 ### July
 
 **Vocabulary:** I committed to using Anki for 20 new words a day, and I went letter by letter adding
-those 1000 words to Anki, creating cards for each and using Refold's recommended Anki settings. I tried to add the words from several letters in one sitting, and then spend the next few days having Anki serve those new words up to me, 20 per day.
+those 1000 words to Anki, creating cards for each. Find the [Refold Recommended Anki Settings](https://refold.la/roadmap/stage-1/a/anki-setup) to make sure you are using Anki most efficiently.
 
-- For each word I did a image search on the word itself, or on the English translation if those images
+I tried to add the words from several letters in one sitting, and then spend the next few days having Anki serve those new words up to me, 20 per day.
+
+- For each word I did an image search on the word itself, or on the English translation if those images
   didn't make much sense. I grabbed the most memorable image. [DuckDuckGo](https://duckduckgo.com/?q=ayran&iar=images&iax=images&ia=images) has the most useful image search because you can right-click images in the results page and copy directly to clipboard.
 
 - I also put each word into [Reverso Context](https://context.reverso.net/translation/turkish-english/ayran) to find a good sample sentence which used the word in
@@ -70,7 +72,7 @@ much I could still make out.
 This is the hardest stage: I just didn't have the vocab
 or grammar yet, and especially wasn't able to keep up with the speed of native speakers. But I still got
 something out of it, especially hearing the rhythm and how all those suffix combos sound when they
-are spoken all together. _Döneceğim, bileceğim__ sound NOTHING like you think they would.
+are spoken all together. _Döneceğim, bileceğim_ sound NOTHING like you think they would.
 Natives bend vowel harmony rules and drop syllables all over the place. Madness!
 
 **Time spent:** How did I split my time? I think I spent probably 2/3 of my time on Anki and 1/3 on watching
@@ -79,13 +81,13 @@ YouTube. And just a few minutes a day reading about grammar. I'd say about 60-90
 ### August
 
 By now I had at least 600-700 words (20 words a day x 30 days plus the handful I knew from before)
-and sounds were already starting to jump out at me as actual words. Because of the way Turkish
+and sounds were starting to jump out at me as actual words. Because of the way Turkish
 works, you can hear the root of a word but miss the next ten syllables which are attached to it, so
-you kinda have an idea what the sentence was about "Today...liar....teacher....will able say" but
+you kinda have an idea what the sentence was about _"Today...liar....teacher....will able say"_ but
 miss pretty much all of the grammar. That's where I am now
 
-**Vocab:** Still working on that list of 1000 words in Anki, and also started the 5000k list from
-Anki, here. I suspended the first 250 words without even looking, since I surely know them already.
+**Vocab:** Still working on that list of 1000 words in Anki, and also started the [Ultimate 5000 Word List](https://ankiweb.net/shared/info/1091622457) on
+Anki. I suspended the first 250 words without even looking, since I surely know them already.
 I set new cards to 50 a day (!!) at the beginning, because there is enormous overlap between this
 list and my list. But these example sentences are different and it has audio! Too bad the sentences
 are often totally unhelpful.
