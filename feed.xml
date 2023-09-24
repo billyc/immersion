@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://billyc.github.io//immersion/feed.xml" rel="self" type="application/atom+xml" /><link href="https://billyc.github.io//immersion/" rel="alternate" type="text/html" /><updated>2023-09-12T15:03:50+02:00</updated><id>https://billyc.github.io//immersion/feed.xml</id><title type="html">🇩🇪 Billy’s Immersion Blog 🇩🇪</title><subtitle>Occasional updates about learning German through media immersion.</subtitle><author><name>Billy Charlton</name></author><entry><title type="html">Three months of Turkish immersion</title><link href="https://billyc.github.io//immersion/2023/sept-update" rel="alternate" type="text/html" title="Three months of Turkish immersion" /><published>2023-09-12T00:00:00+02:00</published><updated>2023-09-12T00:00:00+02:00</updated><id>https://billyc.github.io//immersion/2023/sept-update</id><content type="html" xml:base="https://billyc.github.io//immersion/2023/sept-update"><![CDATA[<p>In June 2023 I met my relatives in Izmir, Turkey and once again lamented that my family there are
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://billyc.github.io//immersion/feed.xml" rel="self" type="application/atom+xml" /><link href="https://billyc.github.io//immersion/" rel="alternate" type="text/html" /><updated>2023-09-24T21:12:14+02:00</updated><id>https://billyc.github.io//immersion/feed.xml</id><title type="html">🇩🇪 Billy’s Immersion Blog 🇩🇪</title><subtitle>Occasional updates about learning German through media immersion.</subtitle><author><name>Billy Charlton</name></author><entry><title type="html">Three months of Turkish immersion</title><link href="https://billyc.github.io//immersion/2023/sept-update" rel="alternate" type="text/html" title="Three months of Turkish immersion" /><published>2023-09-12T00:00:00+02:00</published><updated>2023-09-12T00:00:00+02:00</updated><id>https://billyc.github.io//immersion/2023/sept-update</id><content type="html" xml:base="https://billyc.github.io//immersion/2023/sept-update"><![CDATA[<p>In June 2023 I met my relatives in Izmir, Turkey and once again lamented that my family there are
 not getting any younger and neither am I, and I still never bothered to learn Turkish. Several
 previous attempts in my life – during high school, in my 20s, again in my 30s – always led to
 failure. Those previous times I was reading a grammar book and not much else, maybe some flashcards.</p>
@@ -234,7 +234,7 @@ still going to need those for a while.</p>
 
 <p>Adjective endings depend on the gender of the noun (masculine, feminine, or neuter), so it’s pretty hard to get the endings right if you don’t know the noun’s gender. Immerse until you get a feel for the gender of your nouns! Then come back here.</p>
 
-<p>This guide is for <strong>adjectives that come before nouns</strong> in the sentence. If you’re saying something simple like <code class="language-plaintext highlighter-rouge">Das Haus ist alt</code> you simply leave the adjective alone.</p>
+<p>This guide is for <strong>adjectives that come before nouns</strong> in the sentence. If you’re saying something declarative like <code class="language-plaintext highlighter-rouge">Das Haus ist alt</code> you simply leave the adjective alone.</p>
 
 <p>Ok let’s go!</p>
 
@@ -286,6 +286,21 @@ still going to need those for a while.</p>
   <li>Ich esse grün<span style="color: mediumslateblue; font-weight: bold">e</span> Tomaten. <br /><em>I’m eating green tomatoes; plural would be “di<span style="color: mediumslateblue; font-weight: bold">e</span> Tomaten” so we get that “-e” on the adjective.</em> <br /><br /></li>
 </ul>
 
+<p>For completeness (thanks @Toast!), one final note on the genitive case: this rule gets one final twist for <em>masculine and neuter nouns in the genitive.</em></p>
+
+<p>The concept behind the rule is exactly the same: German wants to lean on adjectives to mark noun cases when there is no article. It’s just that sometimes for genitive nouns, those case markings are already present on the noun itself.</p>
+
+<p>Masculine and neuter <strong>nouns</strong> in the genitive case usually have a “-s” appended, e.g. <em>Die Tür des Auto<strong>s</strong></em> - the door of the car. That “-s” marks the noun as being in the genitive case. So the genitive case marking is present even if there is no article! For these masc and neuter nouns in genitive, the <em>weird “-en” ending is used.</em> There’s no need for a “-s” on both the noun and its adjective. Listeners will already know it’s in genitive because of that “-s” noun ending. So the article gets “-en”.</p>
+
+<p>But <em>weak masculine nouns (see footnote)</em> – the masculine nouns which take “-en” in genitive – don’t have a “-s” suffix to signal to the listener that they are in the genitive. For them the adjective takes the “-s” as you would expect. That way the listener can hear that genitive case coming through! Two examples:</p>
+
+<ul>
+  <li>Der Geruch alte<strong>n</strong> Leder<strong>s</strong> – <em>genitive is marked on the noun “Leder”, so adjective gets “-en”</em></li>
+  <li>Das Gesuch obige<strong>s</strong> Adressat<strong>en</strong> – <em>genitiv is not marked on the weak noun “Adressat” so adjective marks genitive with “-s”</em></li>
+</ul>
+
+<p>And with that, all your adjectives endings are correct.</p>
+
 <h2 id="recap">Recap</h2>
 
 <p>With these three guidelines you can get every adjective ending correct:</p>
@@ -293,7 +308,7 @@ still going to need those for a while.</p>
 <ol>
   <li>Adjectives following “normal” articles get <code class="language-plaintext highlighter-rouge">-e</code></li>
   <li>Adjectives after “weird” articles all get <code class="language-plaintext highlighter-rouge">-en</code></li>
-  <li>Adjectives bear the burden of the final letter of any missing article, so you can hear/understand what case the noun is in.</li>
+  <li>Adjectives bear the burden of the final letter of any missing article (or case), so you can hear/understand what case the noun is in.</li>
 </ol>
 
 <h2 id="bonus-round-this-works-in-reverse-too">Bonus Round: This works in reverse, too!</h2>
@@ -308,7 +323,25 @@ still going to need those for a while.</p>
 
 <p>Have fun,</p>
 
-<p>..b</p>]]></content><author><name>Billy Charlton</name></author><category term="grammar" /><summary type="html"><![CDATA[Ah, adjective endings – let’s be honest, people say this is German at its worst. The rules only “sort-of” make any sense, but here we are and we want to get them mostly right when we speak. It’s actually not that complicated once it clicks, but acquiring it fully can be a chore.]]></summary></entry><entry><title type="html">Billy’s Guide to German Prepositions</title><link href="https://billyc.github.io//immersion/2022/prepositions" rel="alternate" type="text/html" title="Billy’s Guide to German Prepositions" /><published>2022-10-05T00:00:00+02:00</published><updated>2022-10-05T00:00:00+02:00</updated><id>https://billyc.github.io//immersion/2022/prepositions</id><content type="html" xml:base="https://billyc.github.io//immersion/2022/prepositions"><![CDATA[<p>There are a zillion rules for figuring out what articles (der/die/das/d..) to use with German prepositions, but I think I’ve distilled it down into a couple tips that get you there almost all the time! And without giant tables of articles to memorize.</p>
+<p>..b</p>
+
+<hr />
+
+<h4 id="footnote-weak-masculine-nouns">FOOTNOTE: Weak masculine nouns</h4>
+
+<p>Umm, what are “weak masculine nouns” you ask? They are a group of masculine nouns that take special endings. The way to know which nouns are in this group is helpfully simple and also describes how to use them:</p>
+
+<ul>
+  <li>If a <em>masculine noun’s plural</em> is formed by adding the “-en” ending, then it is in this group of “weak” masculine nouns.</li>
+  <li>All of these nouns get a special “-en” ending in <strong>all three non-subject cases:</strong> the accusative, dative, genitive forms of this noun all get an “-en” suffix.</li>
+  <li>Most of these nouns are professions describing men, or nouns derived from adjectives describing men.
+    <ul>
+      <li><em>der Präsident / die Präsidenten</em></li>
+      <li><em>der Student / die Studenten</em></li>
+      <li><em>der Dicke / die Dicken</em></li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>Billy Charlton</name></author><category term="grammar" /><summary type="html"><![CDATA[Ah, adjective endings – let’s be honest, people say this is German at its worst. The rules only “sort-of” make any sense, but here we are and we want to get them mostly right when we speak. It’s actually not that complicated once it clicks, but acquiring it fully can be a chore.]]></summary></entry><entry><title type="html">Billy’s Guide to German Prepositions</title><link href="https://billyc.github.io//immersion/2022/prepositions" rel="alternate" type="text/html" title="Billy’s Guide to German Prepositions" /><published>2022-10-05T00:00:00+02:00</published><updated>2022-10-05T00:00:00+02:00</updated><id>https://billyc.github.io//immersion/2022/prepositions</id><content type="html" xml:base="https://billyc.github.io//immersion/2022/prepositions"><![CDATA[<p>There are a zillion rules for figuring out what articles (der/die/das/d..) to use with German prepositions, but I think I’ve distilled it down into a couple tips that get you there almost all the time! And without giant tables of articles to memorize.</p>
 
 <p>Follow along!</p>
 
