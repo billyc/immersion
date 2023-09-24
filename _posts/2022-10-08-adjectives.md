@@ -10,7 +10,7 @@ Ah, adjective endings -- let's be honest, people say this is German at its worst
 
 Adjective endings depend on the gender of the noun (masculine, feminine, or neuter), so it's pretty hard to get the endings right if you don't know the noun's gender. Immerse until you get a feel for the gender of your nouns! Then come back here.
 
-This guide is for **adjectives that come before nouns** in the sentence. If you're saying something simple like `Das Haus ist alt` you simply leave the adjective alone.
+This guide is for **adjectives that come before nouns** in the sentence. If you're saying something declarative like `Das Haus ist alt` you simply leave the adjective alone.
 
 Ok let's go!
 
@@ -56,13 +56,26 @@ Some examples should make this clear, and this will definitely start to "sound r
 - Ich trinke nur kalt<span style="color: mediumslateblue; font-weight: bold">en</span> Wein. <br/> _I only drink cold wine; the wine is what I drink, so it would be "den Wein" but there is no "den" ... so yep the "-n" from "den" goes on the adjective_ <br/><br/>
 - Ich esse grün<span style="color: mediumslateblue; font-weight: bold">e</span> Tomaten. <br/>_I'm eating green tomatoes; plural would be "di<span style="color: mediumslateblue; font-weight: bold">e</span> Tomaten" so we get that "-e" on the adjective._ <br/><br/>
 
+For completeness (thanks @Toast!), one final note on the genitive case: this rule gets one final twist for _masculine and neuter nouns in the genitive._
+
+The concept behind the rule is exactly the same: German wants to lean on adjectives to mark noun cases when there is no article. It's just that sometimes for genitive nouns, those case markings are already present on the noun itself.
+
+Masculine and neuter **nouns** in the genitive case usually have a "-s" appended, e.g. _Die Tür des Auto**s**_ - the door of the car. That "-s" marks the noun as being in the genitive case. There's no need for a "-s" on both the noun and its adjective. Listeners will already know it's in genitive because of that "-s" noun ending. So the adjective gets an "-en" -- just like the "weird" cases above.
+
+Weak masculine nouns (see footnote) -- the masculine nouns which take "-en" in genitive -- don't have a "-s" suffix. For them the adjective takes the "-s" as you would expect. That way the listener can hear that genitive case coming through! Two examples:
+
+- Der Geruch alte**n** Leder**s**<br/>_genitive is already marked on the noun "Leder", so adjective gets "-en"_
+- Das Gesuch obige**s** Adressat**en**<br/>_genitive is not marked on the weak noun "Adressat" so adjective gets the genitive "-s"_
+
+And with that, all your adjectives endings are correct.
+
 ## Recap
 
 With these three guidelines you can get every adjective ending correct:
 
 1. Adjectives following "normal" articles get `-e`
 2. Adjectives after "weird" articles all get `-en`
-3. Adjectives bear the burden of the final letter of any missing article, so you can hear/understand what case the noun is in.
+3. Adjectives bear the burden of the final letter of any missing article (or case), so you can hear/understand what case the noun is in.
 
 ## Bonus Round: This works in reverse, too!
 
@@ -77,3 +90,18 @@ And hearing those other weird endings like `-es` and `-er` over and over helps u
 Have fun,
 
 ..b
+
+---
+
+#### FOOTNOTE: Weak masculine nouns
+
+Umm, what are "weak masculine nouns" you ask? They are a group of masculine nouns that take special endings. The way to know which nouns are in this group is helpfully simple and also describes how to use them:
+
+   * If a _masculine noun's plural_ is formed by adding the "-en" ending, then it is in this group of "weak" masculine nouns.
+   * All of these nouns get a special "-en" ending in **all three non-subject cases:** the accusative, dative, genitive forms of this noun all get an "-en" suffix.
+   * Most of these nouns are professions describing men, or nouns derived from adjectives describing men.
+      * _der Präsident / die Präsidenten_
+      * _der Student / die Studenten_
+      * _der Dicke / die Dicken_
+
+
