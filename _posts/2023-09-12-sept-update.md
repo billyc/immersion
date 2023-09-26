@@ -6,12 +6,13 @@ date: 2023-09-12
 categories: blog
 ---
 
-In June 2023 I met my relatives in Izmir, Turkey and once again lamented that my family there are
-not getting any younger and neither am I, and I still never bothered to learn Turkish. Several
+In June 2023 I met my relatives in Izmir, Turkey, and once again noticed that my family there are
+not getting any younger and neither am I. I still can't speak or understand Turkish. Several
 previous attempts in my life -- during high school, in my 20s, again in my 30s -- always led to
 failure. Those previous times I was reading a grammar book and not much else, maybe some flashcards.
 
-This time is the LAST TIME that I am going to try to learn this language. But I'm hopeful that this
+What's new this time is that the language immersion approach really worked when I needed to learn
+German. So, I'm going to try again. This time is the LAST TIME that I am going to try to learn this language. But I'm hopeful that this
 time it will work! The immersion methods I discovered really helped me improve my German, and
 everyone tells me that Turkish will be easier to learn now that I already have a different second
 language under my belt.

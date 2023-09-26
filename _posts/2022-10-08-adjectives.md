@@ -56,13 +56,11 @@ Some examples should make this clear, and this will definitely start to "sound r
 - Ich trinke nur kalt<span style="color: mediumslateblue; font-weight: bold">en</span> Wein. <br/> _I only drink cold wine; the wine is what I drink, so it would be "den Wein" but there is no "den" ... so yep the "-n" from "den" goes on the adjective_ <br/><br/>
 - Ich esse grün<span style="color: mediumslateblue; font-weight: bold">e</span> Tomaten. <br/>_I'm eating green tomatoes; plural would be "di<span style="color: mediumslateblue; font-weight: bold">e</span> Tomaten" so we get that "-e" on the adjective._ <br/><br/>
 
-For completeness (thanks @Toast!), one final note on the genitive case: this rule gets one final twist for _masculine and neuter nouns in the genitive._
+For completeness, one last twist for the genitive case: **masculine and neuter nouns in the genitive case** usually have a "-s" appended, e.g. _Die Tür des Auto<span style="color: mediumslateblue; font-weight: bold">s</span>._ That "-s" marks the noun as being in the genitive case. There's no need for a "-s" on both the noun and its adjective. But note that "weak" nouns don't have a "-s" ending, so the "-s" attaches to the adjective just like the examples above.
 
-Masculine and neuter nouns in the genitive case usually have a "-s" appended, e.g. _Die Tür des Auto<span style="color: mediumslateblue; font-weight: bold">s</span>_ - the door of the car. That "-s" marks the noun as being in the genitive case. There's no need for a "-s" on both the noun and its adjective. Note that "weak" nouns don't have an "-s" ending so it hooks onto the adjective just like the examples above.
+- Der Geruch alte<span style="color: mediumslateblue; font-weight: bold">n</span> Leder<span style="color: mediumslateblue; font-weight: bold">s</span><br/>_The smell of old leather; genitive is already marked on the noun "Leder", so the adjective gets "-en"_ <br/><br/>
 
-- Der Geruch alte<span style="color: mediumslateblue; font-weight: bold">n</span> Leder<span style="color: mediumslateblue; font-weight: bold">s</span><br/>_The smell of old leather; genitive is already marked on the noun "Leder", so adjective gets "-en"_ <br/><br/>
-
-- Das Gesuch obige<span style="color: mediumslateblue; font-weight: bold">s</span> Adressat<span style="color: mediumslateblue; font-weight: bold">en</span><br/>_The above addressee's request; genitive is not marked on the weak noun "Adressat" so adjective gets the genitive "-s"_<br/><br/>
+- Das Gesuch obige<span style="color: mediumslateblue; font-weight: bold">s</span> Adressat<span style="color: mediumslateblue; font-weight: bold">en</span><br/>_The above addressee's request; genitive is not marked on the weak noun "Adressat" so the adjective gets the genitive "-s"_<br/><br/>
 
 And with that, all your adjectives endings are correct.
 
