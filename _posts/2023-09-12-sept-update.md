@@ -31,14 +31,15 @@ common Turkish root words](https://www.turkishtextbook.com/most-common-words/) -
 that list along with its one-word English translation into a notebook. The plan was to return to
 Berlin and build an Anki deck with those words as my initial base of vocabulary.
 
-The hope was that my enthusiasm wouldn't dissipate upon returning to Berlin.
+My main fear was that my enthusiasm would dissipate upon returning to Berlin -- it's hard to stay
+motivated for Turkish when I'm not in Turkey.
 
 ### July
 
 **Vocabulary:** I committed to using Anki for 20 new words a day, and I went letter by letter adding
 those 1000 words to Anki, creating cards for each. Find the [Refold Recommended Anki Settings](https://refold.la/roadmap/stage-1/a/anki-setup) to make sure you are using Anki most efficiently.
 
-I tried to add the words from several letters in one sitting, and then spend the next few days having Anki serve those new words up to me, 20 per day.
+I would add all the words from several letters in one sitting, and then spend the next few days having Anki serve those new words up to me, 20 per day.
 
 - For each word I did an image search on the word itself, or on the English translation if those images
   didn't make much sense. I grabbed the most memorable image. [DuckDuckGo](https://duckduckgo.com/?q=ayran&iar=images&iax=images&ia=images) has the most useful image search because you can right-click images in the results page and copy directly to clipboard.
@@ -49,7 +50,7 @@ I tried to add the words from several letters in one sitting, and then spend the
 - For some words I resisted the temptation to put the English translation, but for others it felt like it would be necessary, so I did.
 
 **Grammar:** I also started to re-skim through my _Turkish in Three Months_ grammar book as well as the [elon.io
-turkish](https://elon.io/learn-turkish/lessons) grammar website to pick up the meaning and usage of the endless different suffixes. Turkish grammar was not entirely new to me, as I have tried to learn Turkish from grammar books before. So I think,
+turkish](https://elon.io/learn-turkish/lessons) grammar website to pick up the meaning and usage of the endless different suffixes. Turkish grammar is not entirely new to me, as I have tried to learn Turkish from grammar books before. So I think,
 as immersion learners go, I probably need less focus on grammar than someone starting cold. But even
 so, Turkish is _so different from western languages_ that reading up on the grammar is absolutely
 essential or you will just be completely lost forever. For me this was often 15-30 minutes of
@@ -77,15 +78,15 @@ are spoken all together. _Döneceğim, bileceğim_ sound NOTHING like you think 
 Natives bend vowel harmony rules and drop syllables all over the place. Madness!
 
 **Time spent:** How did I split my time? I think I spent probably 2/3 of my time on Anki and 1/3 on watching
-YouTube. And just a few minutes a day reading about grammar. I'd say about 60-90 minutes a day on average.
+YouTube. And just a few minutes a day reading about grammar. I'd say about 90-120 minutes a day on average.
 
 ### August
 
 By now I had at least 600-700 words (20 words a day x 30 days plus the handful I knew from before)
 and sounds were starting to jump out at me as actual words. Because of the way Turkish
-works, you can hear the root of a word but miss the next ten syllables which are attached to it, so
-you kinda have an idea what the sentence was about _"Today...liar....teacher....will able say"_ but
-miss pretty much all of the grammar. That's where I am now
+works, you can recognize the root of a word but miss the next ten syllables which are attached to it, so
+you only kinda have an idea what the sentence was about _"Today...liar....teacher....will able say"_ but
+miss pretty much all of the grammar. That's where I am now.
 
 **Vocab:** Still working on that list of 1000 words in Anki, and also started the [Ultimate 5000 Word List](https://ankiweb.net/shared/info/1091622457) on
 Anki. I suspended the first 250 words without even looking, since I surely know them already.
@@ -130,18 +131,19 @@ These words are all so common that I'll get them from immersion anyway. Just mov
 **Media:** I gave up on Pokemon as expected. But I found [Avatar the Last Airbender](https://www.turkanime.co/anime/avatar) and have been using
 Whisper AI to generate accurate subs for each episode as I watch it. This is nice because it forces
 me to read every line, and after I edit the sub file I watch the whole episode. I'm only about five
-episodes in, but finding that the speech rate is _much_ slower than Pokemon. Especially the Fire
-Nation (Ateş Ulusu!) sections with Prince Zuko and his Uncle, are often very zen and slow. Without
-subtitles I still cannot understand very much, but maybe it's getting a little easier. I am still
+episodes in, but finding that the speech rate is _much_ slower than Pokemon. Especially the scenes
+focuing on the Fire
+Nation (Ateş Ulusu!) Prince Zuko and his Uncle, are often spoken very zen-like and slow. Without
+subtitles I can't understand very much, but it is definitely getting a little easier. I am still
 watching YouTube channels as above.
 
 ## Verdict
 
 OK so I feel like I'm spending a TON of time in immersion between all of these different mixed up
 activities. I've never spent this much time trying to learn Turkish. I think it is starting to
-click; each book has been a little bit easier than the last. There is still so far to go: videos and
-anime and media are still almost entirely incomprehensible without subtitles. But even THAT is a bit
-better already. The vocab base is helping, as I'm hearing words now that I didn't know six week ago.
+click; each book has been a little bit easier than the last. There is still a long way to go: videos and
+anime are still very incomprehensible without subtitles. But even THAT is a bit
+better already. The vocab base is really helping, as I'm hearing words now that I didn't know six week ago.
 And some of the grammar structures are popping out to my ears a little bit.
 
 Luckily I have matching subs from my Avatar shows, and YouTube has CC on a lot of videos too. I'm
