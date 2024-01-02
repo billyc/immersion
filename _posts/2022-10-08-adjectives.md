@@ -44,7 +44,7 @@ This works whenever the article is present and is... weird.
 
 Here's the only tricky one, but it's less common than the other two: sometimes the article trick doesn't work, _because there is no article!_ And the indefinite article <span style="color: mediumslateblue; font-weight: bold">ein</span> doesn't mark whether its noun is masculine or neuter; _ein_ is used for both genders and that's imprecise. German doesn't like imprecision.
 
-If the noun stands alone without any article at all, or if the article is `ein` and you can't tell whether the noun is masculine or neuter, then German just... _really_ wants us to mark that noun with an ending somehow, so that we know what case it's in. Consider this the "case of the missing case".
+If the noun stands alone without any article at all, or if the article is <span style="color: mediumslateblue; font-weight: bold">ein</span> which doesn't have a case ending, then German just... _really_ wants us to mark that noun with an ending somehow, so that we know what case it's in. Consider this the "case of the missing case".
 
 For these, the **final letter from the missing article itself is tacked onto the adjective.** That way, we know for sure if the noun is the subject or the object or whatever. There is a buffer "-e" so that the rhythm of the adjective ending is always a separate (and unstressed) syllable.
 
